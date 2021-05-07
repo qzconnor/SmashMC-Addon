@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "SmashMC",
+  "mainClass": "de.xconnortv.smashmc.SmashMc",
+  "description": "Timer for Smash on SmashMc",
+  "version": 1,
+  "author": "xConnorTV",
+  "category": 1,
+  "icon": "https://fileupload.2ix.de/smashmc.png"
+}
